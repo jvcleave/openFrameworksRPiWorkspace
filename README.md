@@ -3,7 +3,7 @@ This will not compile the project. I use the Terminal and SSH to compile and run
 
 To use   
 On the Raspberry PI:   
-Download openFrameworks and put in /home/pi/openFrameworks
+Download openFrameworks and put in `/home/pi/openFrameworks`   
 http://www.openframeworks.cc/setup/raspberrypi/Raspberry-Pi-Getting-Started.html
 
 Set up Samba(SMB) sharing according to these instructions   
