@@ -16,6 +16,8 @@ Open up Xcode and edit :)
 
 I often add my own project's source code by creating groups and dragging the src folders over from the Finder. Unchecking "add to target" seems to make it faster.
 
+If you have already setup openFrameworks elsewhere you may be able to edit the path here (I haven't tried it)   
+https://github.com/jvcleave/openFrameworksRPiWorkspace/blob/master/openFrameworksRPi/openFrameworksRPi.xcodeproj/project.pbxproj#L200
 
 
 
