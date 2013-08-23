@@ -197,7 +197,7 @@
 				03F250E217C727EA001658B6 /* video */,
 			);
 			name = openFrameworks;
-			path = ../../../../../Data/home/pi/openFrameworks/libs/openFrameworks;
+			path = /Volumes/Data/home/pi/openFrameworks/libs/openFrameworks;
 			sourceTree = SOURCE_ROOT;
 		};
 		03F2504E17C727EA001658B6 /* sound */ = {
